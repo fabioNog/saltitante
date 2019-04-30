@@ -9,5 +9,5 @@
      que retornara verdadeiro caso nenhum digito é excedido pelo digito a direita</li>
     <li>Foi Construido a função Saltitante, que verifica se o valor é um numero saltitante ou nao</li>
     <li>Foi Construido a função solucao, que me retornara a quantidade de numeros saltitantes serão verificados ate 99%</li>
-    
+    <li>Para executar o codigo utilizei o terminal do Sistema Operacional Linux, indo até o diretorio onde se encontra o arquivo teste.py e executando o comando python teste.py</li>
 </ol>
