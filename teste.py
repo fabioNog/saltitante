@@ -16,7 +16,7 @@ def funcao_solucao():
     contador = 0 
 
     while contador * 100 / x != 99:
-        contador += bool(saltitante(x))
+        contador = contador + bool(saltitante(x))
         x = x + 1
 
     return x
